@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {"nin": "12345678901", "name": "Adebayo Okafor",   "dob": "1990-05-14", "subject_id": 1},
+    {"nin": "23456789012", "name": "Chidinma Nwosu",   "dob": "1985-11-23", "subject_id": 2},
+    {"nin": "34567890123", "name": "Emeka Ezeh",       "dob": "1992-03-07", "subject_id": 3},
+    {"nin": "45678901234", "name": "Fatima Al-Hassan", "dob": "1988-07-19", "subject_id": 4},
+    {"nin": "56789012345", "name": "Gbenga Adeleke",   "dob": "1995-01-30", "subject_id": 5},
+    {"nin": "67890123456", "name": "Halima Musa",      "dob": "1993-09-12", "subject_id": 6},
+    {"nin": "78901234567", "name": "Ibrahim Lawal",    "dob": "1987-06-25", "subject_id": 7},
+    {"nin": "89012345678", "name": "Joy Obi",          "dob": "1991-12-04", "subject_id": 8},
+    {"nin": "90123456789", "name": "Kelechi Eze",      "dob": "1996-04-17", "subject_id": 9},
+    {"nin": "01234567890", "name": "Laila Garba",      "dob": "1989-08-08", "subject_id": 10},
+    {"nin": "11223344556", "name": "Mohammed Bello",   "dob": "1994-02-22", "subject_id": 11},
+    {"nin": "22334455667", "name": "Ngozi Anyanwu",    "dob": "1986-10-15", "subject_id": 12},
+    {"nin": "33445566778", "name": "Obinna Chukwu",    "dob": "1997-07-03", "subject_id": 13},
+    {"nin": "44556677889", "name": "Patience Udoh",    "dob": "1990-11-28", "subject_id": 14},
+    {"nin": "55667788990", "name": "Queensley Abia",   "dob": "1988-03-16", "subject_id": 15},
+    {"nin": "66778899001", "name": "Rasheed Salami",   "dob": "1993-05-09", "subject_id": 16},
+    {"nin": "77889900112", "name": "Sade Ogundimu",    "dob": "1991-08-21", "subject_id": 17},
+    {"nin": "88990011223", "name": "Tunde Adeyemi",    "dob": "1985-12-31", "subject_id": 18},
+    {"nin": "99001122334", "name": "Uchenna Okeke",    "dob": "1996-06-06", "subject_id": 19},
+    {"nin": "10111213141", "name": "Victoria Adigun",  "dob": "1989-09-27", "subject_id": 20}
+  ]
+}

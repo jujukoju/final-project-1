@@ -1,0 +1,17 @@
+{
+  "name": "identity-registry",
+  "version": "1.0.0",
+  "description": "Hardhat project for IdentityRegistry smart contract",
+  "scripts": {
+    "test":   "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "node":   "hardhat node",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.3",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,32 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+*.log
+
+# ── ML artefacts ──────────────────────────────────────────────────────────────
+ml-backend/checkpoints/
+ml-backend/logs/
+data/processed_png/
+data/SOCOFing/metadata/
+
+# ── Node / Hardhat ────────────────────────────────────────────────────────────
+node_modules/
+blockchain/artifacts/
+blockchain/cache/
+blockchain/typechain-types/
+blockchain/.env
+blockchain/deployed.json
+
+# ── Secrets ───────────────────────────────────────────────────────────────────
+oracle-api/.env
+*.key
+*.pem
